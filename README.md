@@ -1,6 +1,4 @@
 Installation steps:
 1. Install R using Homebrew (tested using R 4.5.2)
-2. Create an Alias of Forum.app/Contents/MacOS/ForumLauncher.sh 
-3. Copy and paste to desired location to run application anywhere 
-4. Done! Please reference manual at deboisgrotte.com/FA-forum/Manual.pdf
-
+2. Copy and Paste anywhere to run from desired location.
+3. Done! Please reference manual at https://www.deboisgrotte.com/fa-forum/manual.pdf

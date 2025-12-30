@@ -10,4 +10,4 @@ Installation steps:
 
 5. Unquarantine the app bundle using the command 'xattr -dr com.apple.quarantine Forum.app'
 
-6. Done! Please reference manual at https://www.deboisgrotte.com/fa-forum/manual.pdf
+6. Done!

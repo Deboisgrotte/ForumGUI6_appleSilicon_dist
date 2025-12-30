@@ -1,6 +1,6 @@
 Installation steps:
 
-1. Install Homebrew from (https://brew.sh/)
+1. Install Homebrew (from https://brew.sh/)
 
 2. Install R using Homebrew (with brew env-var set: 'brew install R')
 

@@ -1,3 +1,5 @@
+In order to complete the install process you must use the Terminal Application:
+
 1. Install Homebrew: https://brew.sh/
 
 2. Install R using Homebrew:

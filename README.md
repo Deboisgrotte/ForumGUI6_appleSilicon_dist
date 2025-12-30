@@ -2,7 +2,7 @@ Installation steps:
 
 1. Install Homebrew from (https://brew.sh/)
 
-2. Install R using Homebrew (brew install R)
+2. Install R using Homebrew (with brew env-var set: 'brew install R')
 
 3. Download, unzip, and drag the Forum App to a location that is NOT APPLICATIONS (ie Desktop)
 

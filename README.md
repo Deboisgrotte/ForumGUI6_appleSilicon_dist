@@ -12,6 +12,6 @@
 5. Remove the quarantine flag:
    xattr -dr com.apple.quarantine Forum.app
 
-6. Done!! The app can be launched by double clicking or Spotlight
+6. Done!! The app can now be launched regularly.
 
 Note: The unquarantine command only needs to be run once per downloaded copy.

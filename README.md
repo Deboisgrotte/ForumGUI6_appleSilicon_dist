@@ -1,13 +1,19 @@
-Installation steps:
+In order to complete the install process you must use the Terminal Application:
 
-1. Install Homebrew (from https://brew.sh/)
+1. Install Homebrew: https://brew.sh/
 
-2. Install R using Homebrew (with brew env-var set: 'brew install R')
+2. Install R using Homebrew:
+   brew install R
+   (Make sure your shell environment is configured correctly)
 
-3. Download, unzip, and drag the Forum App to a location that is NOT APPLICATIONS (ie Desktop)
+3. Download the Forum app, unzip it, and place it somewhere convenient (e.g., Desktop). Do NOT put it in the Applications folder.
 
-4. Navigate to the directory where the bundle is located via terminal (ie 'cd Desktop')
+4. Open Terminal and navigate to the folder containing Forum.app:
+   cd ~/Desktop
 
-5. Unquarantine the app bundle using the command 'xattr -dr com.apple.quarantine Forum.app'
+5. Remove the quarantine flag:
+   xattr -dr com.apple.quarantine Forum.app
 
-6. Done!
+6. Done!! The app can now be launched regularly.
+
+Note: The unquarantine command only needs to be run once per downloaded copy.

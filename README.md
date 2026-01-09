@@ -13,7 +13,9 @@ In order to complete the install process you must use the Terminal Application:
 
 5. Remove the quarantine flag:
    xattr -dr com.apple.quarantine Forum.app
-
-6. Done!! The app can now be launched regularly.
+   
+6. On the first startup, the application access to its files and file location when prompted.
+   
+7. Done!! The app can now be launched regularly.
 
 Note: The unquarantine command only needs to be run once per downloaded copy.
